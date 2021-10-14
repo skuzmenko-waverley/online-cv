@@ -49,7 +49,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: 7+ years experience in manual testing - web applications, mobile applications (iOS and Android), Mac/Windows/Linux desktop applications
+    summary: | 7+ years experience in manual testing - web applications, mobile applications (iOS and Android), Mac/Windows/Linux desktop applications
 Experience in hardware testing - network and portable storages
 Experience in test design, test run, test results analysis, test planning, requirements analysis
 Performing functional, regression, performance, load, stress, UI, security, compatibility, negative testing
@@ -61,7 +61,7 @@ Banking, financial and tax reporting software - installation, administration, us
 Experience of maintenance, minor repairs, encashment of Wincor Nixdorf ATMs and self-service terminals, repair and configuration of Ingenico POS-terminals
 Experience in deploying and operating LAN, configuration of active network equipment (Cisco, D-Link, MikroTik), PBX configuration, video surveillance systems
 Basic knowledge of T-SQL, Python, C#, HTML, CSS
-Experience in the self-assembly and repair laptops, personal computers and servers
+Experience in the self-assembly and repair laptops, personal computers and servers |
 
 education:
     - degree: MSc in Computer Science
