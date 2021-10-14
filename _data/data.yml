@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Sergey Kuzmenko
+    tagline: QA
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: s.kuzmenko.ua@gmail.com
+    phone: False
+    website: False
+    linkedin: sergey-kuzmenko
+    xing: False
+    github: skuzmenko-waverley
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -28,165 +28,153 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Russian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Ukrainian
+        level: Native
 
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Music
         link:
 
-      - item: Snowboarding
+      - item: Electronics
         link:
 
-      - item: Cooking
+      - item: Travelling
         link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: 
+●	7+ years experience in manual testing: web applications, mobile applications (iOS and Android), Mac/Windows/Linux desktop applications
+●	Experience in hardware testing - network and portable storages
+●	Experience in test design, test run, test results analysis, test planning, requirements analysis
+●	Performing functional, regression, performance, load, stress, UI, security, compatibility, negative testing
+●	Knowledge and understanding of software testing process, SDLC, experience with agile processes, Redmines, Jira bug trackers
+●	Strong knowledge of PC hardware, network equipment, office equipment, mobile devices
+●	Diagnostic and monitoring tools, remote administration tools
+●	Administration of MS-SQL Server, Active Directory, IBM Lotus Domino
+●	Banking, financial and tax reporting software: installation, administration, user support, client-banking support
+●	Experience of maintenance, minor repairs, encashment of Wincor Nixdorf ATMs and self-service terminals, repair and configuration of Ingenico POS-terminals
+●	Experience in deploying and operating LAN, configuration of active network equipment (Cisco, D-Link, MikroTik), PBX configuration, video surveillance systems
+●	Basic knowledge of T-SQL, Python, C#, HTML, CSS
+●	Experience in the self-assembly and repair laptops, personal computers and servers
+
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      university: Kharkiv National University of Radioelectronics
+      time: 2006 - 2011
+      Occupation: “Specialized computer systems”
+      Qualification: Specialized computer systems engineer
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    - role: Quality Assurance Engineer 
+      time: March 2014 – Present
+      company: Waverley Software, Kharkiv, Ukraine
+      details: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+Current project: Seagate Lyve Mobile Array
+Lyve Mobile Array puts mass data in motion from edge to cloud. Designed for edge storage applications, this 6-drives portable, rackable solution easily integrates into any data management workflow. Supports versatile, high-capacity and high-performance data transfers. With industry-standard AES 256-bit hardware encryption and key management in a rugged, lockable transport case, this device provides superior transport and security for data.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+Responsibilities:
+●	Requirements analysis
+●	Test cases creation from scratch
+●	Execution tests for firmware and hardware
+●	Reporting
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+Project: Seagate Lyve Mobile Shuttle
+Edge storage solution that allows to store and move data to and from emerging edge environments with and without using a computer. Support for most industry-standard file systems, easy ingest data from direct-attached, network-attached, or external storage devices.
+Responsibilities:
+●	Requirements analysis
+●	Test cases creation from scratch
+●	Execution tests for firmware
+●	Direct communication with development team including scrum meetings
+●	Reporting
+●	Managing QA team of 2 engineers
+●	Mentoring Junior engineer
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+Project: Seagate Joy drive, Seagate Power drive with Mobile Toolkit app
+External drives with powerbank for Android-based phones and tablets. Application allows to
+backup/restore to drive and manage files from Android device and from drive
+Responsibilities:
+●	Requirements analysis
+●	Test cases creation from scratch
+●	Execution tests for firmware and Android application
+●	Direct communication with development team
+●	Reporting
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+Project: LaCie DJI Copilot BOSS
+Computer-free wear resistant in-field backup drive with power bank. iOS/Android support, allows to ingest data from flash drives and flash cards, mobile phones without using a computer.
+Responsibilities:
+●	Requirements analysis
+●	Partial test cases creation
+●	Execution tests for firmware and iOS/Android applications
+●	Reporting
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+Project: LaCie RAID Manager
+Application for LaCie professional direct-attached storage (DAS). LRM helps user configure RAID, set up important email alerts, measure the health of the hard drives and more
+Responsibilities:
+●	Test cases creation
+●	Manual testing on OS X and Windows
+●	Reporting
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+Project: LaCie professional direct-attached external storages (DAS)
+Products: 	5big Thunderbolt 2, 
+8big Rack Thunderbolt 2, 
+6big & 12big Thunderbolt 3,
+2big Dock Thunderbolt 3
 
-skills:
-    title: Skills &amp; Proficiency
+Responsibilities:
+●	Partial test cases creation
+●	Manual testing on OS X and Windows
+●	Reporting
 
-    toolset:
-      - name: Python & Django
-        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+Project: Seagate NAS and NAS OS
+Line of Seagate\LaCie network attached storages and Linux-based operating system for it with
+supporting different levels of RAID, network protocols and applications
+Products:	Seagate Business Storage R4/R8 Rackmount
+LaCie 2big NAS Pro, 5big NAS Pro
+Seagate NAS 2-Bay, 4-Bay
+Seagate NAS Pro 2-Bay, 4-Bay, 6-Bay
+Seagate Personal Cloud 1-bay, 2-Bay
+Responsibilities:
+●	Partial test cases creation
+●	Manual testing of NAS hardware, WebUI, executing tests on Windows, Linux, OS X, creation and executing tests for mobile applications for iOS and Android
+●	Manual testing Web/Desktop apps
 
-      - name: Angular
-        level: 98%
+Project: Sdrive app
+Application for remote and local access to NAS devices
+Responsibilities:
+●	Test cases creation
+●	Manual testing on OS X, Windows, iOS and Android
 
-      - name: HTML5 & CSS
-        level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+    - role: Chief specialist of software and technical support
+      time: 2012 – 2014
+      company: Kharkiv branch PJSC “Kreditprombank”
 
-      - name: Sketch & Photoshop
-        level: 60%
+Responsibilities:
+●	Administration and maintenance of banking software, servers and LAN infrastructure, equipment and PC purchase and deploying
+●	User support
+●	Second-line client-banking support
+●	ATMs and POS-terminals maintenance
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    - role: IT Department engineer
+      time: 2011 – 2012
+      company: Kharkiv branch of JSC “Brokbusinessbank”
+
+
+Responsibilities:
+●	User support
+●	First-line client-banking support
+●	Maintenance of banking software, servers and LAN infrastructure
+●	ATMs and POS-terminals maintenance
+
+
+
+
