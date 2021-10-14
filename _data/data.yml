@@ -56,12 +56,12 @@ career-profile:
              Knowledge and understanding of software testing process, SDLC, experience with agile processes, Redmines, Jira bug trackers
              Strong knowledge of PC hardware, network equipment, office equipment, mobile devices
              Diagnostic and monitoring tools, remote administration tools
-Administration of MS-SQL Server, Active Directory, IBM Lotus Domino
-Banking, financial and tax reporting software - installation, administration, user support, client-banking support
-Experience of maintenance, minor repairs, encashment of Wincor Nixdorf ATMs and self-service terminals, repair and configuration of Ingenico POS-terminals
-Experience in deploying and operating LAN, configuration of active network equipment (Cisco, D-Link, MikroTik), PBX configuration, video surveillance systems
-Basic knowledge of T-SQL, Python, C#, HTML, CSS
-Experience in the self-assembly and repair laptops, personal computers and servers |
+             Administration of MS-SQL Server, Active Directory, IBM Lotus Domino
+             Banking, financial and tax reporting software - installation, administration, user support, client-banking support
+             Experience of maintenance, minor repairs, encashment of Wincor Nixdorf ATMs and self-service terminals, repair and configuration of Ingenico POS-terminals
+             Experience in deploying and operating LAN, configuration of active network equipment (Cisco, D-Link, MikroTik), PBX configuration, video surveillance systems
+             Basic knowledge of T-SQL, Python, C#, HTML, CSS
+             Experience in the self-assembly and repair laptops, personal computers and servers |
 
 education:
     - degree: MSc in Computer Science
@@ -76,103 +76,100 @@ experiences:
       company: Waverley Software, Kharkiv, Ukraine
       details: 
 
-Current project Seagate Lyve Mobile Array
-Lyve Mobile Array puts mass data in motion from edge to cloud. Designed for edge storage applications, this 6-drives portable, rackable solution easily integrates into any data management workflow. Supports versatile, high-capacity and high-performance data transfers. With industry-standard AES 256-bit hardware encryption and key management in a rugged, lockable transport case, this device provides superior transport and security for data.
+             Current project Seagate Lyve Mobile Array
+             Lyve Mobile Array puts mass data in motion from edge to cloud. Designed for edge storage applications, this 6-drives portable, rackable solution easily integrates into any data management workflow. Supports versatile, high-capacity and high-performance data transfers. With industry-standard AES 256-bit hardware encryption and key management in a rugged, lockable transport case, this device provides superior transport and security for data.
 
-Responsibilities
-Requirements analysis
-Test cases creation from scratch
-Execution tests for firmware and hardware
-Reporting
+             Responsibilities
+             Requirements analysis
+             Test cases creation from scratch
+             Execution tests for firmware and hardware
+             Reporting
 
-Project Seagate Lyve Mobile Shuttle
-Edge storage solution that allows to store and move data to and from emerging edge environments with and without using a computer. Support for most industry-standard file systems, easy ingest data from direct-attached, network-attached, or external storage devices.
-Responsibilities
-Requirements analysis
-Test cases creation from scratch
-Execution tests for firmware
-Direct communication with development team including scrum meetings
-Reporting
-Managing QA team of 2 engineers
-Mentoring Junior engineer
+             Project Seagate Lyve Mobile Shuttle
+             Edge storage solution that allows to store and move data to and from emerging edge environments with and without using a computer. Support for most industry-standard file systems, easy ingest data from direct-attached, network-attached, or external storage devices.
+             Responsibilities
+             Requirements analysis
+             Test cases creation from scratch
+             Execution tests for firmware
+             Direct communication with development team including scrum meetings
+             Reporting
+             Managing QA team of 2 engineers
+             Mentoring Junior engineer
 
-Project Seagate Joy drive, Seagate Power drive with Mobile Toolkit app
-External drives with powerbank for Android-based phones and tablets. Application allows to
-backup/restore to drive and manage files from Android device and from drive
-Responsibilities
-Requirements analysis
-Test cases creation from scratch
-Execution tests for firmware and Android application
-Direct communication with development team
-Reporting
+             Project Seagate Joy drive, Seagate Power drive with Mobile Toolkit app
+             External drives with powerbank for Android-based phones and tablets. Application allows to backup/restore to drive and manage files from Android device and from drive
+             Responsibilities
+             Requirements analysis
+             Test cases creation from scratch
+             Execution tests for firmware and Android application
+             Direct communication with development team
+             Reporting
 
-Project LaCie DJI Copilot BOSS
-Computer-free wear resistant in-field backup drive with power bank. iOS/Android support, allows to ingest data from flash drives and flash cards, mobile phones without using a computer.
-Responsibilities
-Requirements analysis
-Partial test cases creation
-Execution tests for firmware and iOS/Android applications
-Reporting
+             Project LaCie DJI Copilot BOSS
+             Computer-free wear resistant in-field backup drive with power bank. iOS/Android support, allows to ingest data from flash drives and flash cards, mobile phones without using a computer.
+             Responsibilities
+             Requirements analysis
+             Partial test cases creation
+             Execution tests for firmware and iOS/Android applications
+             Reporting
 
-Project LaCie RAID Manager
-Application for LaCie professional direct-attached storage (DAS). LRM helps user configure RAID, set up important email alerts, measure the health of the hard drives and more
-Responsibilities
-Test cases creation
-Manual testing on OS X and Windows
-Reporting
+             Project LaCie RAID Manager
+             Application for LaCie professional direct-attached storage (DAS). LRM helps user configure RAID, set up important email alerts, measure the health of the hard drives and more
+             Responsibilities
+             Test cases creation
+             Manual testing on OS X and Windows
+             Reporting
 
-Project LaCie professional direct-attached external storages (DAS)
-Products 	
-5big Thunderbolt 2, 
-8big Rack Thunderbolt 2, 
-6big & 12big Thunderbolt 3,
-2big Dock Thunderbolt 3
+             Project LaCie professional direct-attached external storages (DAS)
+             Products 	
+             5big Thunderbolt 2, 
+             8big Rack Thunderbolt 2, 
+             6big & 12big Thunderbolt 3,
+             2big Dock Thunderbolt 3
 
-Responsibilities
-Partial test cases creation
-Manual testing on OS X and Windows
-Reporting
+             Responsibilities
+             Partial test cases creation
+             Manual testing on OS X and Windows
+             Reporting
 
+             Project Seagate NAS and NAS OS
+             Line of Seagate\LaCie network attached storages and Linux-based operating system for it with
+             supporting different levels of RAID, network protocols and applications
+             Products	
+             Seagate Business Storage R4/R8 Rackmount
+             LaCie 2big NAS Pro, 5big NAS Pro
+             Seagate NAS 2-Bay, 4-Bay
+             Seagate NAS Pro 2-Bay, 4-Bay, 6-Bay
+             Seagate Personal Cloud 1-bay, 2-Bay
 
-Project Seagate NAS and NAS OS
-Line of Seagate\LaCie network attached storages and Linux-based operating system for it with
-supporting different levels of RAID, network protocols and applications
-Products	
-Seagate Business Storage R4/R8 Rackmount
-LaCie 2big NAS Pro, 5big NAS Pro
-Seagate NAS 2-Bay, 4-Bay
-Seagate NAS Pro 2-Bay, 4-Bay, 6-Bay
-Seagate Personal Cloud 1-bay, 2-Bay
+             Responsibilities
+             Partial test cases creation
+             Manual testing of NAS hardware, WebUI, executing tests on Windows, Linux, OS X, creation and executing tests for mobile applications for iOS and Android
+             Manual testing Web/Desktop apps
 
-Responsibilities
-Partial test cases creation
-Manual testing of NAS hardware, WebUI, executing tests on Windows, Linux, OS X, creation and executing tests for mobile applications for iOS and Android
-Manual testing Web/Desktop apps
-
-Project Sdrive app
-Application for remote and local access to NAS devices
-Responsibilities
-Test cases creation
-Manual testing on OS X, Windows, iOS and Android
+             Project Sdrive app
+             Application for remote and local access to NAS devices
+             Responsibilities
+             Test cases creation
+             Manual testing on OS X, Windows, iOS and Android
 
 
     - role: Chief specialist of software and technical support
       time: 2012 – 2014
       company: Kharkiv branch PJSC “Kreditprombank”
 
-Responsibilities
-Administration and maintenance of banking software, servers and LAN infrastructure, equipment and PC purchase and deploying
-User support
-Second-line client-banking support
-ATMs and POS-terminals maintenance
+             Responsibilities
+             Administration and maintenance of banking software, servers and LAN infrastructure, equipment and PC purchase and deploying
+             User support
+             Second-line client-banking support
+             ATMs and POS-terminals maintenance
 
     - role: IT Department engineer
       time: 2011 – 2012
       company: Kharkiv branch of JSC “Brokbusinessbank”
 
-
-Responsibilities
-User support
-First-line client-banking support
-Maintenance of banking software, servers and LAN infrastructure
-ATMs and POS-terminals maintenance
+             Responsibilities
+             User support
+             First-line client-banking support
+             Maintenance of banking software, servers and LAN infrastructure
+             ATMs and POS-terminals maintenance
