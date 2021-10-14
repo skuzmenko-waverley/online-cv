@@ -64,7 +64,7 @@ experiences:
     - role: Quality Assurance Engineer 
       time: March 2014 – Present
       company: Waverley Software, Kharkiv, Ukraine
-      details: 
+      details: |
 
              Current project Seagate Lyve Mobile Array
              Lyve Mobile Array puts mass data in motion from edge to cloud. Designed for edge storage applications, this 6-drives portable, rackable solution easily integrates into any data management workflow. Supports versatile, high-capacity and high-performance data transfers. With industry-standard AES 256-bit hardware encryption and key management in a rugged, lockable transport case, this device provides superior transport and security for data.
@@ -147,7 +147,7 @@ experiences:
     - role: Chief specialist of software and technical support
       time: 2012 – 2014
       company: Kharkiv branch PJSC “Kreditprombank”
-
+      details: |
              Responsibilities
              Administration and maintenance of banking software, servers and LAN infrastructure, equipment and PC purchase and deploying
              User support
@@ -157,7 +157,7 @@ experiences:
     - role: IT Department engineer
       time: 2011 – 2012
       company: Kharkiv branch of JSC “Brokbusinessbank”
-
+      details: |
              Responsibilities
              User support
              First-line client-banking support
